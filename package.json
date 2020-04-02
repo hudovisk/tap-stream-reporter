@@ -1,12 +1,12 @@
 {
   "name": "tap-stream-reporter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Test-Anything-Protocol report library for JavaScript",
   "main": "lib/index.js",
   "license": "MIT",
   "repository": "https://github.com/hudovisk/tap-stream-reporter.git",
   "files": [
-    "lib/*.js"
+    "lib/"
   ],
   "dependencies": {
     "tap-parser": "^10.0.1"
