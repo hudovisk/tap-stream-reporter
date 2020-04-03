@@ -8,7 +8,13 @@
   "files": [
     "lib/"
   ],
+  "scripts": {
+    "test": "echo 'No tests for now'"
+  },
   "dependencies": {
     "tap-parser": "^10.0.1"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.0.4"
   }
 }
