@@ -15,6 +15,6 @@
     "tap-parser": "^10.0.1"
   },
   "devDependencies": {
-    "semantic-release": "^17.0.4"
+    "semantic-release": "^19.0.3"
   }
 }
